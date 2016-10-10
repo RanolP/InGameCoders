@@ -1,0 +1,7 @@
+name: InGameCoder
+version: 1.0
+main: me.ranol.ingamecoder.InGameCoder
+commands:
+  ingamecoder:
+    aliases: [igc, igcoder]
+    description: 'Hey! You can in-game coding!'
